@@ -1,7 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+//import FunctionComponent from './interface';
 
+// eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 function App() {
   return (
     <div className="App">
